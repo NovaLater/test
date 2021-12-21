@@ -2,5 +2,6 @@
 "name": "RPAW",
 "description": "Come Delegate With Us and Help keep Cardano 100% decentralized!",
 "ticker": "RPA1",
-"homepage": "https://www.rpawstakepools.com"
+"homepage": "https://www.rpawstakepools.com
+"extended": "https://raw.githubusercontent.com/NovaLater/cardano/main/extendedMetaData.json"
 }
